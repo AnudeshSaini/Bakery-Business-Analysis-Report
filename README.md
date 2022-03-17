@@ -9,7 +9,7 @@
   
   4.Strawberry Rhubard (289), Pumpkin (210), and Apple(191) are top sold pies on weekends in 2021.
   
-  5. Apple (704), Strawberry Rhubarb(659), and Pumpkin(471) are also top sold pies on weekdays in 2021.
+  5.Apple (704), Strawberry Rhubarb(659), and Pumpkin(471) are also top sold pies on weekdays in 2021.
  
   6.Least ordered is OTHER(279) followed by Blueberry (604) pie. 
   
